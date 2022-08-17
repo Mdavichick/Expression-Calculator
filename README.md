@@ -1,12 +1,4 @@
-# CSC 413 - Project One
-
-## Student Name  : Michael Davichick
-
-## Student ID    : 920196625
-
-## Student Email : Mdavichick@mail.sfsu.edu
-
-### Note failure to completely fill out this README.md could cause you to recieve a  0 for your project until correctly done
+# Expression Evaluator and Calculator GUI
 
 # Adding the JUnit 5 Jars to your project.
 
