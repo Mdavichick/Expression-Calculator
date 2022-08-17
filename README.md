@@ -1,4 +1,4 @@
-# Expression Evaluator and Calculator GUI
+# Expression Evaluator & Calculator GUI
 
 ## InteliJ
 In order to use the Unit tests given you will need to let intelij know where to find the needed jars. (jars are just java version of an archived folder or zip file.). 
