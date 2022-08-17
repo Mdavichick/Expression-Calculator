@@ -10,7 +10,7 @@ If for some reason it does not, you can add the jars in the following way:
 1. Complete the process for "create project from existing resources"
 2. Then go to File -> Project Structure.
 3. Inside project Structure select the "Libraries" tab on the left.
-4. You will see a "+" symbol near the top of the window. CLick this symbol.
+4. You will see a "+" symbol near the top of the window. Click this symbol.
 5. A little window will popup asking what kind of library you want to import. Select "jar"
 6. After selection jar, a file selector will appear, navigate to the folder calcualtor/src/test/resources
 7. Add ALL jars in this folder. Then hit OK/Accept until all windows for project structure are closed.
